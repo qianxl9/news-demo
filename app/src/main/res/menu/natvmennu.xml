@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group
+        android:id="@+id/mens_group1"
+        android:checkable="true"
+        android:checkableBehavior="single">
+
+        <item android:id="@+id/news_id"
+              android:title="新闻"
+              android:icon="@drawable/news_icon"/>
+        <item android:id="@+id/picture_id"
+            android:title="图片"
+            android:icon="@drawable/picture_icon"/>
+    </group>
+</menu>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="lavender">#E6E6FA</color><!--淡紫色 -->
+    <color name="lightcyan">#E0FFFF</color><!--亮青色 -->
+    <color name="burlywood">#DEB887</color><!--实木色 -->
+</resources>

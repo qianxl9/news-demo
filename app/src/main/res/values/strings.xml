@@ -1,0 +1,11 @@
+<resources>
+    <string-array name="title_name">
+        <item>头条</item>
+        <item>FUN来了</item>
+        <item>娱乐</item>
+    </string-array>
+
+    <string name="drawer_open">Open navigation drawer</string>
+    <string name="drawer_close">Close navigation drawer</string>
+    <string name="app_name">Nes_demo</string>
+</resources>
